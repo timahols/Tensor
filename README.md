@@ -19,7 +19,7 @@
 
 #Результат/вывод после отрабатывания заданий №1:
 
-![image](https://github.com/timahols/Tensor/assets/117768695/a869baac-ca7d-47a7-971a-2e167f84fdcc)
+![image](https://github.com/timahols/Tensor/assets/117768695/ca4f2712-fc70-4bf2-bda4-90f10c41027c)
 
 #Результат/вывод после отрабатывания заданий №2:
 
