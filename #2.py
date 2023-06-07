@@ -53,7 +53,7 @@ class Images:
             'src'), "Ошибка: картинка не вернулась в исходную из 8 пункта"
 
 
-def test_tesnor_search():
+def test_tensor_search():
     browser = Images()
     browser.open()
     browser.menu_display()
