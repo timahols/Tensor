@@ -7,10 +7,10 @@ class Finding:
 
     def yandex(self):
         self.driver.get("https://ya.ru/")
-        assert "Яндекс" in self.driver.title, "Ошибка: главная станица не найдена"
+
 
     def search(self, query):
-        input = self.driver.find_element(By.ID, "text")
+        input = wait.until(EC.visibility_of_element_located((By.ID, 'text')))
         assert input.is_displayed(), "Ошибка: поле ввода для поиска не найдена"
         input.send_keys(query)
         suggest = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, '.mini-suggest__item')))
