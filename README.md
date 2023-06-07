@@ -1,5 +1,5 @@
 # Tensor
-Используемые библеотеки: Selenium Webdriver 4.9.1, pytest
+Используемые библеотеки: Selenium Webdriver 4.9.1, pytest 7.3.1
 
 Реализован паттерн PageObject
 
