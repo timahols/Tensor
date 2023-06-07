@@ -27,7 +27,7 @@ class Finding:
         print('Все ок')
 
 
-def test_tesnor_search():
+def test_tensor_search():
     browser = Finding(driver)
     browser.yandex()
     browser.search("Тензор")
