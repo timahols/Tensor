@@ -23,4 +23,4 @@
 
 #Результат/вывод после отрабатывания заданий №2:
 
-![image](https://github.com/timahols/Tensor/assets/117768695/1f843d74-856a-465d-99f5-5973a1c1268a)
+![image](https://github.com/timahols/Tensor/assets/117768695/2ecce010-8abf-4b99-bcc6-4f8040354297)
